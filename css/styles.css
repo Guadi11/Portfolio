@@ -53,8 +53,8 @@ a:hover {
     text-decoration: underline;
 }
 .foto-perfil {
-    width: 500px;
-    height:500px;
+    width:180px;
+    height: 180px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
