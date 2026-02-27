@@ -58,6 +58,5 @@ a:hover {
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
-    display: inline-block;
-    text-align: right;
+    text-rendering: geometricPrecision;
 }
