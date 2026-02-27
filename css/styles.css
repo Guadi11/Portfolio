@@ -58,4 +58,5 @@ a:hover {
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
+    text-align: right;
 }
